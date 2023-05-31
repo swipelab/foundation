@@ -31,4 +31,12 @@ class Notifier implements Disposable, Disposer, Listenable {
   void removeListener(VoidCallback listener) {
     _listeners.remove(listener);
   }
+
+  @protected
+  void notifiyListeners() {
+    final listeners = _listeners.toList();
+    for (final listener in listeners) {
+      listener();
+    }
+  }
 }
