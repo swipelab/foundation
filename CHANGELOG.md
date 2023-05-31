@@ -1,8 +1,5 @@
-## 0.0.3
+## 0.0.5
 
 * Added Notifier
 * Added Disposer
-
-## 0.0.1
-
 * Added Disposable

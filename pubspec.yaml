@@ -1,6 +1,6 @@
 name: foundation
-description: Fundamental Components
-version: 0.0.3
+description: Extended Core Flutter framework primitives. 
+version: 0.0.5
 homepage: https://github.com/swipelab/foundation
 
 environment:
