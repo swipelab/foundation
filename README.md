@@ -1,7 +1,7 @@
 ## Features
 
 - [x] Notifier
-- [x] Diposer
+- [x] Disposer
 - [x] Disposable
 
 ## Usage
